@@ -1,0 +1,8 @@
+# CODEOWNERS
+# This file defines who owns specific paths in the repository.
+
+* @edbrown
+/frameworks/ @darwin
+/wiki/ @darwin
+/proof/ @darwin
+/entity/ @darwin
