@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as follows."
+title: "Structural Capacity Architecture"
+authors:
+  - family-names: Brown
+    given-names: Ed
+    affiliation: "Empowered Dynamics"
+version: 1.0.0
+date-released: 2024-07-22
+license: Proprietary
+abstract: |
+  The canonical record of the Structural Capacity Architecture methodology,
+  including the SCALE Executive Operating System and the "Scale stronger, not heavier" category claim.
+keywords:
+  - Structural Capacity
+  - SCALE Method
+  - Founder Bottleneck
+  - Operational Architecture
